@@ -1,4 +1,5 @@
 🛍️ ShopMyStuff
+
 ShopMyStuff est une application mobile Android développée avec Jetpack Compose, qui propose une interface intuitive pour explorer des produits alimentaires. L'écran d'accueil présente :
 
 🔍 Une barre de recherche stylisée
