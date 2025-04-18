@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ShopMyStuff</string>
+
+    <string name="our_categories">Our Categories</string>
+    <string name="our_best_deal">Our best deal</string>
+    <string name="best_sales">Best sales</string>
+    <string name="fruit">Fruit</string>
+    <string name="vegetables">Vegetable</string>
+    <string name="cheese">Cheese</string>
+    <string name="producers">Producer</string>
+    <string name="cabbage">Cabbage</string>
+    <string name="cabbage_description">Cabbage is a leafy green vegetable that is a member of the cruciferous family. It is a good source of vitamins C and K, and it is also low in calories. Cabbage can be eaten raw, cooked, or fermented. It is a popular ingredient in salads, soups, and stews</string>
+    <string name="bell_pepper">Bell Pepper</string>
+    <string name="bell_pepper_description">This bell pepper is a fresh, crisp, and versatile vegetable that can be enjoyed in many different ways. It is a good source of vitamins A and C, and it is also low in calories. Bell peppers are available in a variety of colors, including green, red, yellow, and orange. They can be eaten raw, cooked, or roasted</string>
+    <string name="clementine">Clementine</string>
+    <string name="clementine_description">Clementines are a type of citrus fruit that is a hybrid between a mandarin orange and a sweet orange. They are small, easy to peel, and have a sweet and tangy flavor. Clementines are a good source of vitamin C, and they are also low in calories. They can be eaten fresh, juiced, or used in salads.</string>
+    <string name="honey">Honey</string>
+    <string name="honey_description">Honey is a sweet, viscous food substance made by honey bees and some related insects. Bees produce honey from the sugary secretions of plants (floral nectar) or from secretions of other insects (such as honeydew), by regurgitation, enzymatic activity, and water evaporation. Honey is stored in wax structures called honeycombs.</string>
+    <string name="lemon">Lemon</string>
+    <string name="lemon_description">A lemon is a yellow citrus fruit that is sour and acidic. It is a good source of vitamin C, and it is also low in calories. Lemons can be eaten fresh, juiced, or used in cooking and baking.</string>
+    <string name="nougat">Nougat</string>
+    <string name="nougat_description">Nougat is a type of confectionery that is made with sugar, honey, nuts, and whipped egg whites. It is a popular candy in many parts of the world, and it is often used in desserts and pastries.</string>
+    <string name="potato">Potato</string>
+    <string name="potato_description">A potato is a starchy, tuberous crop from the perennial nightshade Solanum tuberosum. The word "potato" may refer to the plant itself as well as the edible tuber. In the region of the Andes, there are some other closely related cultivated potato species. Potatoes were first domesticated by the indigenous peoples of the Andes mountains in South America. The Spanish introduced the potato to Europe in the second half of the 16th century.</string>
+    <string name="red_wine">Red wine</string>
+    <string name="red_wine_description">Red wine is a type of wine made from red grapes. The skins of the grapes are left on during the fermentation process, which gives the wine its red color. Red wine is typically higher in alcohol content than white wine, and it has a bolder flavor. Red wine is often aged in oak barrels, which gives it a complex flavor profile.</string>
+    <string name="strawberry">Strawberry</string>
+    <string name="strawberry_description">A strawberry is a fruit produced by the strawberry plant. It is a composite fruit, which means that it is made up of many small individual fruits that are fused together. Strawberries are a good source of vitamin C, and they are also low in calories. Strawberries can be eaten fresh, frozen, or used in cooking and baking.</string>
+    <string name="purple_wine">Purple Wine</string>
+    <string name="purple_wine_description">Red wine is a type of wine made from red grapes. The skins of the grapes are left on during the fermentation process, which gives the wine its red color. Red wine is typically higher in alcohol content than white wine, and it has a bolder flavor. Red wine is often aged in oak barrels, which gives it a complex flavor profile.</string>
+    <string name="charcuterie">Purple Wine</string>
+    <string name="charcuterie_deal_description">Prosciutto di Parma, Chorizo Iberico, French Saucisson Sec, Duck Rillettes, Marinated Artichokes, Fig and Olive Tapenade</string>
+
+
+    <string name="placeholder_search">Search</string>
+</resources>
